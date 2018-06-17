@@ -11,11 +11,11 @@ td {
   font-size: 8em;
 }
 
-.X {
-  background: black;
-  color: white;
+td .X {
+  background: white;
+  color: black;
 }
-.O {
+td .O {
   background: white;
   color: black;
 }
